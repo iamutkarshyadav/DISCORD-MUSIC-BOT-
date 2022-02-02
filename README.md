@@ -1,5 +1,5 @@
 
-# Legendary Disocrd Muisic Bot Made by Utkarsh by the inspiration of Barnelism for CAROLINE GRACE
+# Legendary Disocrd Muisic Bot Made by Utkarsh for CAROLINE GRACE 
 
 An advanced Music Bot, with 30+ Radio Stations, with capability of filters, like Bassboost, Nightcore, etc. and reaction interactivity. Based on ytdl-core with discord.js Guide Handler. With ideas from eritislami
 
