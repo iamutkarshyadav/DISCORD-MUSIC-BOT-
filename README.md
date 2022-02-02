@@ -1,5 +1,5 @@
 
-# Advanced discord Music Bot
+# Legendary Disocrd Muisic Bot Made by Utkarsh by the inspiration of Barnelism for CAROLINE GRACE
 
 An advanced Music Bot, with 30+ Radio Stations, with capability of filters, like Bassboost, Nightcore, etc. and reaction interactivity. Based on ytdl-core with discord.js Guide Handler. With ideas from eritislami
 
@@ -35,10 +35,18 @@ An advanced Music Bot, with 30+ Radio Stations, with capability of filters, like
  
  **5.** start the bot with **`node index.js`**
  
- [![Run on Repl.it](https://repl.it/badge/github/navaneethkm004/Music-Bot-With-Filters-v2)](https://repl.it/github/navaneethkm004/Music-Bot-With-Filters-v2)
+ ## CLICK HERE TO AUTOMATE YOUR WORK 
+ 
+ [![Run on Repl.it](https://github.com/iamutkarshyadav/DISCORD-MUSIC-BOT-.git) 
 
 
 ## **TUTORIAL** 
+
+1. COPY THE GIT LINK AND PASTE IT TO REPLIT 'IMPORT FROM GITHUB' AND BUILD A NEW REPEL!
+2. GO TO CONFIG.JSON AND OPEN CONSOLE AND RUM - npm install 
+3. wait for installing the dependencies!
+4. NOW PASTE THE TOKEN IN CONFIG.JSON 
+5. RUN THE BOT WITH (node .) in the console!!
 
 
 ## Usage - config.json
