@@ -18,8 +18,8 @@ module.exports = {
     let helpEmbed = new MessageEmbed()
     .setTitle("HELP MENU 🔰 Commands")
     .addField('Prefix Information', `Prefix: \`${PREFIX}\`\nYou can also mention ${client.user} to get prefix info.`, false)
-    .addField("• Developer", `\`\`\`yml\nName: KABU#8148 [821095540569407508]\nName Ξ Kabir Jaipal [821095540569407508]\`\`\``)
-    .addField("• Important Links", `**[Invite Link](https://discord.com/api/oauth2/authorize?client_id=${client.user.id}&permissions=8&scope=bot)\`|\`[Support Server](https://discord.gg/KRX2tgNA7R)\`|\`[Youtube](https://www.youtube.com/channel/UCINCfgiBYCykOemiuVhqtIQ/)\`**`)
+    .addField("• Developer", `\`\`\`yml\nName:Shadow__storme#4419 [790934254317338625]\ Made By Utkarsh Yadav For Caroline Grace \`\`\``)
+    .addField("• Important Links", `**[Invite Link](https://discord.com/api/oauth2/authorize?client_id=${client.user.id}&permissions=8&scope=bot)\`|\`[Support Server]()\`|\`[Your Website ](https:/)\`**`)
     .addField(`All Commands is Below `)
       .setFooter( client.user.username +`Type: ${PREFIX}help <Command>  for more information!`)
       .setColor("#F0EAD6");
