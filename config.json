@@ -1,5 +1,5 @@
 {
-  //"TOKEN": "",
+  "TOKEN": "insert bot token here",
   "PREFIX": "!",
   "approveemoji": "✅",
   "denyemoji": "🚫",
